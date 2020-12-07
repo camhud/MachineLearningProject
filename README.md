@@ -1,4 +1,4 @@
-# File Descriptions
+# Project File Descriptions
 
 ## Main Files
 ### Note_Recognition .ipynb
@@ -13,8 +13,6 @@ Pre-trained model used in `demo.ipynb`.
 
 This is a demonstration of our fitted convolutional neural network using audio not from our training/validation/testing dataset.
 
----
-
 ## Other Files
 
 ### old project results.ipynb
@@ -22,3 +20,5 @@ This is a demonstration of our fitted convolutional neural network using audio n
 Contains the results from training an SVM and CNN on MFCC features.
 
 ### Keras Note Recognition .ipynb
+
+Contains more experimentation of training CNNs with MFCC features.
